@@ -1,6 +1,6 @@
 # 📊 Portal Web Corporativo - Fiscal Data
 
-<img src="https://via.placeholder.com/300x120.png?text=Fiscal+Data" width="300">
+<img src="logofiscaldata.png" width="300">
 
 ## 📌 Objetivo del proyecto
 
